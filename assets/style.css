@@ -1,0 +1,59 @@
+body {
+}
+
+.login-box-msg {
+    margin: 0;
+    font-size: 15px;
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+
+.lock-img {
+    margin-bottom: 10px;
+    height: 100px;
+    border-color: #fff;
+}
+
+.receipt-top {
+    margin-top: 50px;
+}
+
+.receipt-line {
+    line-height: inherit;
+}
+
+.receipt-content {
+    padding: 5px 20px !important; 
+}
+
+.table-header {
+    background-color: #fff !important;
+    border-bottom: 0px solid #fff !important;
+}
+
+.receipt-table {
+    font-size: 18px !important;
+    margin-bottom: 0px !important;
+}
+.card-image {
+    padding: 15px 15px 15px 25px;
+    text-align: center !important;
+}
+
+.card-content {
+    font-size: 16px;
+    color: #464646 !important;
+    padding: 15px 0 15px 0;
+}
+.table-data {
+     border-bottom: 1px solid #ddd;
+     text-transform: uppercase;
+}
+
+.user-image {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #c2c2c2 !important;
+}
+
