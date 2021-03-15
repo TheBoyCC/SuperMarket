@@ -222,7 +222,7 @@
                                             <span>
                                                 <asp:Label ID="lblUser1" Text="Thomas Barnes" runat="server" />
                                             </span>
-                                            <a id="editProfile" runat="server" onserverclick="editProfile_ServerClick" causesvalidation="false" href="#" title="Edit Profile">Edit Profile</a>
+                                            <%--<a id="editProfile" runat="server" onserverclick="editProfile_ServerClick" causesvalidation="false" href="#" title="Edit Profile">Edit Profile</a>--%>
                                             <a id="changePass" runat="server" onserverclick="changePass_ServerClick" causesvalidation="false" href="#" title="Change Password">Change Password</a>
                                         </div>
                                     </div>
@@ -404,6 +404,12 @@
                                     <button id="btnSavePicture" type="button" class="btn btn-primary" runat="server" onserverclick="btnSavePicture_ServerClick" causesvalidation="true">Save</button>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="text-center">
+                             <p> © 2021 Powered by Silbyte Technologies.<img class="center-margin display-inline" src="../assets/image-resources/SilbyteLogo.png" style="height: 50px;" alt="" /></p>
                         </div>
                     </div>
 

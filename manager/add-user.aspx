@@ -151,8 +151,8 @@
                                                                 <asp:RangeValidator ID="RangeValidatorDOB" runat="server"
                                                                     ControlToValidate="txtDOB"
                                                                     ForeColor="Red"
-                                                                    ErrorMessage="Age must be between 24 & 60"
-                                                                    MinimumValue="1958/01/31" MaximumValue="1994/12/31"
+                                                                    ErrorMessage="Age must be between 12 & 60"
+                                                                    MinimumValue="1958/01/31" MaximumValue="2009/12/31"
                                                                     Type="Date"
                                                                     Display="Dynamic">
                                                                  </asp:RangeValidator>

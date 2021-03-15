@@ -197,7 +197,8 @@
                                 </div>
                                 <asp:Button type="button" ID="btnSignIn" CssClass="btn btn-info btn-block" OnClick="btnSignIn_Click" runat="server" Text="Sign In" />
 
-                                <div class="form-group">
+                                <div class="form-group mrg20T mrg0B text-center">
+                                    <p> © 2021 Powered by Silbyte Technologies.<img class="center-margin display-inline" src="assets/image-resources/SilbyteLogo.png" style="height: 30px;" alt="" /></p>
                                 </div>
                             </div>
                         </div>

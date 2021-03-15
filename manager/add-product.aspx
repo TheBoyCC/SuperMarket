@@ -108,7 +108,7 @@
                                                                     Display="Dynamic">
                                                               </asp:RegularExpressionValidator>
                                                             </div>
-                                                            <div class="col-sm-6">
+                                                           <%-- <div class="col-sm-6">
                                                                 <label>Cost Price</label>
                                                                 <div class="input-prepend input-group">
                                                                     <span class="input-group-addon">GHȻ</span>
@@ -126,11 +126,7 @@
                                                                     ErrorMessage="Enter Numbers"
                                                                     Display="Dynamic">
                                                              </asp:RegularExpressionValidator>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="form-group remove-border">
-                                                        <div class="col-sm-12">
+                                                            </div>--%>
                                                             <div class="col-sm-6">
                                                                 <label>Selling Price</label>
                                                                 <div class="input-prepend input-group">
@@ -150,6 +146,11 @@
                                                                     Display="Dynamic">
                                                               </asp:RegularExpressionValidator>
                                                             </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="form-group remove-border">
+                                                        <div class="col-sm-12">
+                                                            
                                                             <div class="col-sm-6">
                                                                 <label>Stock Level</label>
                                                                 <asp:TextBox ID="txtMinLevel" CssClass="form-control" placeholder="Enter Minimum Stock Level" runat="server" />

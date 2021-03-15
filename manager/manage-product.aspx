@@ -64,7 +64,6 @@
                                                     <th class="text-center">Product</th>
                                                     <th class="text-center">Category</th>
                                                     <th class="text-center">Quantity</th>
-                                                    <th class="text-center">Cost Price</th>
                                                     <th class="text-center">Sellig Price</th>
                                                     <th class="text-center">Action</th>
                                                     <th class="text-center">Status</th>

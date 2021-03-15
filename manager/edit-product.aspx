@@ -75,7 +75,7 @@
                                                             <asp:TextBox ID="txtQuantity" CssClass="form-control" placeholder="Enter Product Quantity" BackColor="White" ReadOnly="true" MaxLength="3" runat="server" />
                                                         </div>
                                                     </div>
-                                                    <div class="form-group remove-border">
+                                                   <%-- <div class="form-group remove-border">
                                                         <label class="col-sm-4 control-label">Cost Price:</label>
                                                         <div class="col-sm-6">
                                                             <div class="input-prepend input-group">
@@ -95,7 +95,7 @@
                                                                 Display="Dynamic">
                                                             </asp:RegularExpressionValidator>
                                                         </div>
-                                                    </div>
+                                                    </div>--%>
                                                     <div class="form-group remove-border">
                                                         <label class="col-sm-4 control-label">Selling Price:</label>
                                                         <div class="col-sm-6">
